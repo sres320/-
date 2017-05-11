@@ -1,3 +1,4 @@
 ## 專題影片
-[Imgur](https://drive.google.com/file/d/0B7XQfriitbLqamVMN0RGbVlWeFE/view?usp=sharing)
-[![Demo CountPages alpha](https://drive.google.com/file/d/0B7XQfriitbLqamVMN0RGbVlWeFE/view?usp=sharing)](https://drive.google.com/file/d/0B7XQfriitbLqamVMN0RGbVlWeFE/view?usp=sharing)
+
+
+[![Demo CountPages alpha](https://raw.githubusercontent.com/sres320/-/master/%E6%9C%AA%E5%91%BD%E5%90%8D.png)](https://drive.google.com/file/d/0B7XQfriitbLqamVMN0RGbVlWeFE/view?usp=sharing)
